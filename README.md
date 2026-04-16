@@ -118,4 +118,4 @@ This project is primarily for educational purposes. However, contributions are w
 
 - Original Galaxian game by Namco
 - Pygame library by pygame.org
-- This enhanced version by Amatya Chattarj.
+- This enhanced version by Amatya Chattaraj.
