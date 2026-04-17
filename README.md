@@ -85,6 +85,7 @@ Defend Earth from waves of alien invaders by destroying all enemies before they 
 Galaxian_Game/
 ├── galaxian.py          # Main game implementation
 ├── README.md            # This file
+└── .gitignore           # Git ignore rules
 ├── requirements.txt     # Python dependencies
 └── .venv/               # Virtual environment directory
 ```
