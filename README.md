@@ -1,6 +1,6 @@
 # GALAXIAN - Space Defender
 ![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-yellow.svg)
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-yellow?logo=pygame.svg)
 
 A polished Pygame recreation of the classic arcade game "Galaxian".
 
