@@ -82,7 +82,7 @@ Defend Earth from waves of alien invaders by destroying all enemies before they 
 ## Project Structure
 
 ```
-Galaxian_Game/
+GALAXIAN - Space Defender/
 ├── galaxian.py          # Main game implementation
 ├── README.md            # This file
 └── .gitignore           # Git ignore rules
