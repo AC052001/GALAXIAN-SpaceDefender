@@ -4,6 +4,8 @@
 
 A polished Pygame recreation of the classic arcade game "Galaxian".
 
+<img width="516" height="720" alt="g1" src="https://github.com/user-attachments/assets/29d137d6-ac53-47f8-866c-0d6f32729fee" />
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -31,6 +33,8 @@ The game is built using Python and Pygame, making it easy to run on multiple pla
 - Score tracking and high score system
 - Pause functionality
 - Responsive controls
+
+<img width="523" height="723" alt="g2" src="https://github.com/user-attachments/assets/804d3f83-0f0d-4db4-9e2f-711113db556f" />
 
 ## Installation
 
@@ -80,6 +84,8 @@ Defend Earth from waves of alien invaders by destroying all enemies before they 
 - Commander enemies: 70 points
 - Flagship enemies: 100 points
 - Bonus points for combo kills
+
+<img width="522" height="718" alt="g3" src="https://github.com/user-attachments/assets/2401db78-9a10-4d4e-b72d-e526948b88b6" />
 
 ## Project Structure
 
