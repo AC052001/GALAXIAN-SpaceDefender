@@ -4,7 +4,8 @@
 
 A polished Pygame recreation of the classic arcade game "Galaxian".
 
-<img width="516" height="720" alt="g1" src="https://github.com/user-attachments/assets/29d137d6-ac53-47f8-866c-0d6f32729fee" />
+<img width="521" height="728" alt="g1" src="https://github.com/user-attachments/assets/77fe89e7-8965-4780-89f7-3a1381bd1b9f" />
+
 
 ## Table of Contents
 - [Overview](#overview)
